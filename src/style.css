@@ -87,7 +87,7 @@ nav a:hover::after {
   display: flex;
   flex-direction: column;
   gap: 100px;
-  padding: 18dvh 10dvw 0 10dvw;
+  padding: 18dvh 10dvw 5dvh 10dvw;
 }
 
 .meal-type {
